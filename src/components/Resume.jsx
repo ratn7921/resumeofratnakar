@@ -36,7 +36,7 @@ const Resume = () => {
     </p>
     <p>
         <FaTwitter className="inline-block mr-1" />
-        <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer" className="text-black-500 hover:underline">twitter.com/yourtwitterhandle</a>
+        <a href="https://x.com/ratnakarspeeks" target="_blank" rel="noopener noreferrer" className="text-black-500 hover:underline">twitter.com/yourtwitterhandle</a>
     </p>
     <p>
         <FaLinkedin className="inline-block mr-1" />
