@@ -18,10 +18,10 @@ const Resume = () => {
                     <div className="mb-8">
                         <h2 className="text-lg sm:text-xl font-semibold mb-2">PROFILE</h2>
                         <p className="text-sm sm:text-base">
-                            Passionate and driven software developer with a Bachelor's degree in Computer Applications and currently pursuing a Master's degree in Computer Applications.
-                            Proficient in core programming languages including Java, JavaScript, and Python, with hands-on experience in frameworks such as React.js and Spring Boot.
-                            Adept at building scalable web applications, focusing on backend development, software engineering principles, and implementing AI algorithms.
-                            Eager to contribute to innovative research projects and explore new areas in computer science through a research internship at Max Planck Institutes.
+                         Passionate and driven soŌware developer with a strong foundaƟon in computer science, holding a Bachelor's 
+degree in Computer ApplicaƟons Proficient in core Java,with hands-on liƩle bit experience in frameworks like 
+React.js and Spring Boot. Adept at building scalable web applicaƟons, with a focus on backend development 
+and soŌware engineering principles
                         </p>
                     </div>
                     <div>
@@ -96,7 +96,7 @@ const Resume = () => {
                         <h2 className="text-xl sm:text-2xl font-bold mb-4">SKILLS</h2>
                         <div className="mb-4">
                             <h3 className="text-lg sm:text-xl font-semibold mb-2">Technical Skills</h3>
-                            <p className="text-sm sm:text-base">Proficient in Python, Java, C/C++, JavaScript; experienced in software development (Agile, Git), web development (HTML, CSS, React.js, Node.js), and database management (MySQL, MongoDB).</p>
+                            <p className="text-sm sm:text-base">Proficient in  Java, C/C++, JavaScript; experienced in software development ( Git,GITHUB), web development (HTML, CSS, javascript, React.js, Node.js), and database management (MySQL, MongoDB).</p>
                         </div>
                         <div className="mb-4">
                             <h3 className="text-lg sm:text-xl font-semibold mb-2">Soft Skills</h3>
